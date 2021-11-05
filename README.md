@@ -21,3 +21,15 @@ If you choose anker, run:
 `ln -sf /mnt/sda2/tce/squeezelite-anker squeezelite`
 
 `sudo /usr/local/etc/init.d/squeezelite restart`
+
+If you choose enerpad, run:
+
+`ln -sf /mnt/sda2/tce/squeezelite-enerpad squeezelite`
+
+`sudo /usr/local/etc/init.d/squeezelite restart`
+
+If you choose mcdodo, run:
+
+`ln -sf /mnt/sda2/tce/squeezelite-mcdodo squeezelite`
+
+`sudo /usr/local/etc/init.d/squeezelite restart`
