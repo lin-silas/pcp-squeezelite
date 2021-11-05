@@ -16,19 +16,21 @@ To install HQPWV, run:
 
 `wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-mcdodo`
 
-If you choose anker, run:
+You can choose anyone as you wish, run:
+
+* Compiled using Anker
 
 `ln -sf /mnt/sda2/tce/squeezelite-anker squeezelite`
 
 `sudo /usr/local/etc/init.d/squeezelite restart`
 
-If you choose enerpad, run:
+* Compiled using enerpad
 
 `ln -sf /mnt/sda2/tce/squeezelite-enerpad squeezelite`
 
 `sudo /usr/local/etc/init.d/squeezelite restart`
 
-If you choose mcdodo, run:
+* Compiled using mcdodo
 
 `ln -sf /mnt/sda2/tce/squeezelite-mcdodo squeezelite`
 
