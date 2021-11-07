@@ -35,3 +35,9 @@ You can choose anyone as you wish, run:
 `ln -sf /mnt/sda2/tce/squeezelite-mcdodo squeezelite`
 
 `sudo /usr/local/etc/init.d/squeezelite restart`
+
+* 回復到山姆兄的系統 squeezelite- 後面接 pcm 或 dsd
+
+`ln -sf /mnt/sda2/tce/squeezelite-pcm squeezelite`
+
+`sudo /usr/local/etc/init.d/squeezelite restart`
