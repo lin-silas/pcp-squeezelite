@@ -6,7 +6,7 @@ Login to piCorePlayer using ssh
 * login: `tc`
 * password: `piCore`
 
-To install HQPWV, run:
+To install custom squeezelite, run:
 
 `cd /mnt/sda2/tce`
 
