@@ -8,3 +8,4 @@ cd /mnt/sda2/tce
 wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-anker
 wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-enerpad
 wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-mcdodo
+
