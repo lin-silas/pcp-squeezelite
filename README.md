@@ -15,19 +15,19 @@ You can choose anyone as you wish, run:
 
 * Compiled using Anker
 
-`/home/tc/change.sh anker`
+`change.sh anker`
 
 * Compiled using enerpad
 
-`/home/tc/change.sh enerpad`
+`change.sh enerpad`
 
 * Compiled using mcdodo
 
-`/home/tc/change.sh mcdodo`
+`change.sh mcdodo`
 
 * 使用山姆兄的檔案，請服用 pcm 或 dsd 或 custom
 
-`/home/tc/change.sh pcm`
+`change.sh pcm`
 
 * 回復到山姆兄的系統
 
