@@ -7,5 +7,5 @@ wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelit
 wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/change.sh
 sudo chmod +x change.sh
 sudo ln -s /mnt/sda2/tce/change.sh /usr/local/bin
-sudo echo "/usr/local/bin/change”.sh >> /opt/.filetool.lst
+sudo echo “/usr/local/bin/change.sh” >> /opt/.filetool.lst
 pcp bu
