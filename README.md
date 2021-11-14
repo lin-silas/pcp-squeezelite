@@ -25,6 +25,10 @@ You can choose anyone as you wish, run:
 
 `/home/tc/change.sh mcdodo`
 
-* 回復到山姆兄的系統，請服用 pcm 或 dsd
+* 使用山姆兄的檔案，請服用 pcm 或 dsd 或 custom
 
 `/home/tc/change.sh pcm`
+
+* 回復到山姆兄的系統
+
+`wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/restore.sh | sh`
