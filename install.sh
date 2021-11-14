@@ -9,3 +9,4 @@ wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelit
 wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-enerpad
 wget https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-mcdodo
 
+pcp bu
