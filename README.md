@@ -1,5 +1,5 @@
 # pcp-squeezelite
-squeezelite for picoreplayer compiled by different GAN chargers
+squeezelite for picoreplayer compiled by different GAN chargers, only support pcm & flac files
 
 Login to piCorePlayer using ssh
 
