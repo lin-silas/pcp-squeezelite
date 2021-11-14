@@ -10,17 +10,18 @@ To install custom squeezelite, run:
 
 `cd /mnt/sda2/tce`
 
-`wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-pcm-anker-1317`
+`wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-anker`
 
-`wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-pcm-enerpad-1317`
+`wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-enerpad`
 
-`wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-pcm-mcdodo-1317`
+`wget -O - https://raw.githubusercontent.com/lin-silas/pcp-squeezelite/main/squeezelite-mcdodo`
+
 
 You can choose anyone as you wish, run:
 
 * Compiled using Anker
 
-`ln -sf /mnt/sda2/tce/squeezelite-pcm-anker-1317 squeezelite`
+`ln -sf /mnt/sda2/tce/squeezelite-pcm-anker squeezelite`
 
 `sudo /usr/local/etc/init.d/squeezelite restart`
 
